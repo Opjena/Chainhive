@@ -145,3 +145,7 @@ MIT License - see LICENSE file for details
 - Twitter: @ChainHive
 - Discord: https://discord.gg/chainhive
 - Email: team@chainhive.io
+
+Contract Details : 0x0e56DAE537E3648FF4FCde2755637E6f8C8F810A
+
+<img width="1812" height="815" alt="Screenshot 2025-09-12 135145" src="https://github.com/user-attachments/assets/cb56d7f8-fc39-442d-ae47-cf87922258d6" />
